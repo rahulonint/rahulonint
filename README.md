@@ -39,9 +39,8 @@ src="https://img.shields.io/github/followers/rahulonint?logo=github&style=for-th
   <a href="https://www.twitter.com/rahulonint" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
 </p>
 
-### Badges
+### My GitHub Stats
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rahulonint"><img src="https://github-readme-stats.vercel.app/api?username=rahulonint&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="rahulonint's GitHub stats" /></a>
-
+<a href="http://www.github.com/rahulonint"><img src="https://github-readme-stats.vercel.app/api?username=rahulonint&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="rahulonint's GitHub stats"></a>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulonint&layout=compact)](https://github.com/rahulonint)
