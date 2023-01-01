@@ -6,7 +6,7 @@ Web Developer / Explorer
 
 * 🌍  I'm based in Kolkata, West Bengal
 * ✉️  You can contact me at [rahulsinghoffc01@gmail.com](mailto:rahulsinghoffc01@gmail.com)
-* 🚀  I'm currently working on [Maulana Abul Kalam Azad University of Technology](https://makautwb.ac.in/)
+* 🚀  I'm currently studying at [Maulana Abul Kalam Azad University of Technology](https://makautwb.ac.in/)
 * 🧠  I'm learning React Js
 
 <a href="https://www.twitter.com/rahulonint" target="_blank" rel="noreferrer"><img
