@@ -9,11 +9,11 @@ Web Developer / Explorer
 * 🚀  I'm currently studying at [Maulana Abul Kalam Azad University of Technology](https://makautwb.ac.in/)
 * 🧠  I'm learning React Js
 
-<a href="https://www.twitter.com/rahulonint" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/rahulonint?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
+<!-- <a href="https://www.twitter.com/rahulonint" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/followers/rahulonint?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
 /></a>
 <a href="https://www.github.com/rahulonint" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rahulonint?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/rahulonint?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a> -->
 
 ### Skills
 
